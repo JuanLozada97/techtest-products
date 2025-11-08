@@ -112,16 +112,6 @@ app.UseCors("AllowFrontend");
 
 ---
 
-## 📸 Screenshots (ejemplo)
-> *(Puedes agregar imágenes o GIFs de tu app aquí)*
-
-```
-frontend/public/demo-list.png
-frontend/public/demo-create.png
-```
-
----
-
 ## 🧱 Arquitectura general
 
 ```
@@ -142,7 +132,7 @@ Api → Application → Domain
 
 **Juan David Lozada Trujillo**  
 Software Developer — .NET / Azure / AI Integration  
-📧 juandavid@example.com  
+📧 juandlozadat@gmail.com.com  
 🌐 [GitHub](https://github.com/JuanLozada97)
 
 ---
