@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LTen0Phk6BE=",
+  "dgSpecHash": "NInXdoFF234=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JuanDavidLozadaTruji\\source\\Repos\\TechSolution\\src\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\JuanDavidLozadaTruji\\source\\Repos\\techtest\\backend\\src\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JuanDavidLozadaTruji\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\JuanDavidLozadaTruji\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
